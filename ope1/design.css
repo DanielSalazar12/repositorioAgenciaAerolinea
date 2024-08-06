@@ -1,0 +1,36 @@
+.col-3 {
+ 
+  border: solid black;
+  text-align: center;
+}
+.col-100 {
+  margin-bottom: 3%;
+  margin-left: 7%;
+}
+
+.row {
+  justify-content: center;
+}
+
+.col3 {
+ 
+  text-align: center;
+  border: solid black;
+}
+
+.col2 {
+  text-align: center;
+  border: solid black;
+}
+
+.col1 {
+
+  border: solid black;
+  text-align: center;
+  justify-content: center;
+}
+.derechosRes {
+
+  background-color: rgb(17, 17, 17);
+  color: aliceblue;
+}
